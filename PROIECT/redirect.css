@@ -1,0 +1,26 @@
+body{
+  background: url(cuteaf.gif) no-repeat center center fixed; 
+ background-color: black;
+    text-align: center;
+     width: 100%;
+     height: auto;
+ }
+ .scris{
+ 	text-align: center;
+ 	
+ 	color:white;
+ 	font-family: cursive;
+ }
+ input[type=button]{
+ 	 background-color: #00CED1;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 15%;
+  
+ }
+ input[type=button]:hover{
+ opacity: 0.8;
+}
