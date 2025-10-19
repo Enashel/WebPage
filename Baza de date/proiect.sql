@@ -45,7 +45,7 @@ CREATE TABLE `useri` (
 --
 
 INSERT INTO `useri` (`ID`, `Nume_Prenume`, `Nume_Utilizator`, `Parola`, `Parola_dehash`, `Disciplina_Predata`, `Tip_Disciplina`, `Specializare`, `An`, `Interval_Disponibil`) VALUES
-(1, 'Marius Tureac', 'Proiect', '$2y$10$RLDEGi8TO1zxLpPgZOtMQep1TnNDNXzXeTD3fEsD6Tm', 'parola', 'As vrea eu', 'Proiect', 'FIIR', 2, 'Nespecificat');
+(1, 'Marius Tureac', 'Proiect', '$2y$10$RLDEGi8TO1zxLpPgZOtMQep1TnNDNXzXeTD3fEsD6Tm', 'parola', 'Nu', 'Proiect', 'FIIR', 2, 'Nespecificat');
 
 --
 -- Indexes for dumped tables
